@@ -1,6 +1,19 @@
+
+* {
+  margin:0 auto;
+  background-color: #000;
+  font-family: 'Ubuntu', sans-serif;
+  color: grey
+}
+
 .button {
-
-
+padding: 10px;
+margin-top: 30px;
+border: 30%;
+background-color: lime;
+border-color: #000;
+color: #000;
+outline: none;
 }
 
 .log_in {
@@ -10,5 +23,15 @@
 
 .page_layout {
 
+
+}
+
+.main_container {
+  position: relative;
+  top: 100px;
+  text-align: center
+}
+
+#title_style {
 
 }
