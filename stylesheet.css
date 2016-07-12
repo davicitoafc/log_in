@@ -37,6 +37,16 @@ button:hover {
   text-align: center
 }
 
+.form_style {
+  background-color: lime;
+}
+
+.header_style {
+  position: relative;
+  top: 100px;
+  text-align: center
+}
+
 #title_style {
 
 }
